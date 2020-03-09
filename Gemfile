@@ -1,3 +1,3 @@
 source 'https://gems.ruby-china.com'
 
-gem "cocoapods", "1.8.3"
+gem "cocoapods", "1.9.0"

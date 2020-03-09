@@ -8,6 +8,7 @@
 
 import Then
 import UIKit
+import HandyJSON
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     var window: UIWindow?
@@ -20,6 +21,8 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
             $0.rootViewController = UINavigationController(rootViewController: ViewController())
             $0.makeKeyAndVisible()
         }
+        
+        HandyJSONConfiguration.debugMode = .verbose
     }
 
     func sceneDidDisconnect(_ scene: UIScene) {}

@@ -13,6 +13,7 @@
 		6641F17223CC61560078EC9A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6641F17123CC61560078EC9A /* ViewController.swift */; };
 		6641F17723CC61560078EC9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6641F17623CC61560078EC9A /* Assets.xcassets */; };
 		6641F17A23CC61560078EC9A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6641F17823CC61560078EC9A /* LaunchScreen.storyboard */; };
+		66D404C324161AA600E61176 /* EndViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66D404C224161AA600E61176 /* EndViewController.swift */; };
 		66FDB45223F692E000DA70CF /* PropertyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66FDB45123F692E000DA70CF /* PropertyViewController.swift */; };
 		66FDB45423F6983300DA70CF /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66FDB45323F6983300DA70CF /* BaseViewController.swift */; };
 		66FDB45623F69C1C00DA70CF /* BasicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66FDB45523F69C1C00DA70CF /* BasicViewController.swift */; };
@@ -28,6 +29,7 @@
 		6641F17623CC61560078EC9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6641F17923CC61560078EC9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6641F17B23CC61560078EC9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		66D404C224161AA600E61176 /* EndViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EndViewController.swift; sourceTree = "<group>"; };
 		66FDB45123F692E000DA70CF /* PropertyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PropertyViewController.swift; sourceTree = "<group>"; };
 		66FDB45323F6983300DA70CF /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		66FDB45523F69C1C00DA70CF /* BasicViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicViewController.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 				6641F17823CC61560078EC9A /* LaunchScreen.storyboard */,
 				6641F17B23CC61560078EC9A /* Info.plist */,
 				66FDB45123F692E000DA70CF /* PropertyViewController.swift */,
+				66D404C224161AA600E61176 /* EndViewController.swift */,
 			);
 			path = Standard;
 			sourceTree = "<group>";
@@ -196,6 +199,7 @@
 				66FDB45423F6983300DA70CF /* BaseViewController.swift in Sources */,
 				66FDB45623F69C1C00DA70CF /* BasicViewController.swift in Sources */,
 				6641F17223CC61560078EC9A /* ViewController.swift in Sources */,
+				66D404C324161AA600E61176 /* EndViewController.swift in Sources */,
 				6641F16E23CC61560078EC9A /* AppDelegate.swift in Sources */,
 				6641F17023CC61560078EC9A /* SceneDelegate.swift in Sources */,
 				66FDB45223F692E000DA70CF /* PropertyViewController.swift in Sources */,
